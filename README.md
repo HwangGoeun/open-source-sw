@@ -1,3 +1,3 @@
 # open-source-sw
 
-This readme.md file is created for Lab2.
+This readme.md file is created for Lab2.
